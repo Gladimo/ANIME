@@ -1,27 +1,21 @@
-## Welcome to GitHub Pages
+You can see  anime from here!!!!!!
 
-You can use the [editor on GitHub](https://github.com/Gladimo/ANIME/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+lol jk hru tho?
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1 hi
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+This is 
+![Vintage-Naruto-Anime-Poster-Art-Retro-Posters-Kraft-Paper-Decorative-Painting-Home-Room-Decor-Wall-Sticker jpg_640x640_a522656b-7df4-45ac-ac8c-43de058fe858](https://user-images.githubusercontent.com/78860237/124481781-7d48fe00-ddca-11eb-8ef0-0338a54bd2b4.jpg)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+
+
+
+
+
 
 [Link](url) and ![Image](src)
 ```
