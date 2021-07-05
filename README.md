@@ -1,7 +1,7 @@
 You can see  anime from here!!!!!!
 
 
-lol jk hru tho?
+I will be updating it.
 
 
 
@@ -17,15 +17,6 @@ This is
 
 
 
-[Link](url) and ![Image](src)
-```
+this is 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gladimo/ANIME/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![MV5BN2E2OTgzODktMjBhYy00MjJjLWI0OTgtNGYxOGNhMWMxOWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@ _V1_UY1200_CR109,0,630,1200_AL_](https://user-images.githubusercontent.com/78860237/124483408-1f1d1a80-ddcc-11eb-984e-397cdb4b7687.jpg 
